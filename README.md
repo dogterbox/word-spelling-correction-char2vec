@@ -1,4 +1,5 @@
 # Words Spelling Correction using Char2Vec
+**Medium blog: https://medium.com/@dogterbox/ลองทำ-word-spelling-correction-ด้วย-char2vec-6167430492bc**
 
 ## Data Preparing
 
